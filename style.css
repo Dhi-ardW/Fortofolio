@@ -1,0 +1,63 @@
+/* warna js */
+:root {
+    --primary : #3282B8;
+    --secondary : #BBE1FA;
+    --thirdy: #0F4C75;
+    --black: #1B262C;
+    --light: #F1F6F9;
+}
+
+
+/* font  */
+.monsterat {
+    font-family: "Montserrat", sans-serif;
+}
+.inter {
+    font-family: "Inter", sans-serif;
+}
+.sanscode {
+    font-family: "Google Sans Code", monospace;
+}
+
+
+/* background color */
+.bg-primary {
+    background-color: var(--primary);
+}
+.bg-secondary {
+    background-color: var(--secondary);
+}
+.bg-thirdy {
+    background-color: var(--thirdy);
+}
+.bg-black {
+    background-color: var(--black);
+}
+.bg-light {
+    background-color: var(--light);
+}
+
+/* text color */
+.text-primary {
+    color: var(--primary);
+}
+.text-secondary {
+    color: var(--secondary);
+}
+.text-thirdy {
+    color: var(--thirdy);
+}
+.text-black {
+    color: var(--black);
+}
+.text-light {
+    color: var(--light);
+}
+
+/* widht dan height */
+.w100 {
+    width: 100vw;
+}
+.h100 {
+    height: 100vh;
+}

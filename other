@@ -1,0 +1,11 @@
+color use :
+primary = #3282B8
+secondary = #BBE1FA
+thirdy = #0F4C75
+black = #1B262C
+light = #F1F6F9
+
+font use :
+monsterrat (tittle)
+inter (deskripsi)
+google sans code (other)
